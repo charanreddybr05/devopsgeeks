@@ -2,3 +2,4 @@
 #puppet
 #ansible
 #chef
+#Salt
